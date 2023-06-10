@@ -15,5 +15,5 @@ If you find the code useful for your research, please consider citing
 ```
 
 ## Acknowledgement
-We thank the authors of the following repositories for code reference:
+We thank the authors of the following repository for code reference:
 [Graph WaveNet](https://github.com/nnzhan/Graph-WaveNet).
