@@ -3,7 +3,7 @@
 This is a pytorch implementation of SSH-GNN model as described in the following paper: 
 [Semi-Supervised Air Quality Forecasting via Self-Supervised Hierarchical Graph Neural Network, TKDE 2022].
 
-## References
+## Reference
 If you find the code useful for your research, please consider citing
 ```bib
 @article{han2022semi,
